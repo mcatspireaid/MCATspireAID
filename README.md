@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**mcatspireaid/MCATspireAID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your Github
+**mcatspireaid us a special platform for the mdact aspirants that are going to appear in the upcoming mdcat test**
 <!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8" />
